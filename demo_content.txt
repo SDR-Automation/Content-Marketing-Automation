@@ -1,0 +1,19 @@
+# Zero Trust
+
+## Summary
+
+Zero Trust is foundational.
+
+## Pillar 1: Identity
+
+- MFA for all users
+- Privileged Access Management
+
+## Pillar 2: Devices
+
+- Endpoint detection on all devices
+- Device compliance policies
+
+## Conclusion
+
+Zero Trust is a continuous journey.

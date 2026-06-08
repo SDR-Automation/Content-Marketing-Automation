@@ -1,0 +1,7 @@
+streamlit
+groq
+anthropic>=0.40,<0.70
+reportlab
+python-docx
+requests
+beautifulsoup4
